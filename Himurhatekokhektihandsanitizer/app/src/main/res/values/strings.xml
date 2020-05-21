@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">হিমুর হাতে কয়েকটি হ্যান্ড স্যানিটাইজার</string>
+    <string name="bookName">হিমুর হাতে কয়েকটি হ্যান্ড স্যানিটাইজার</string>
+    <string name="hpb">Let\'s Start!</string>
+    <string name="wrighterName">সোলায়মান ইসলাম জাহিদ</string>
+    <string name="btnprev">previous</string>
+    <string name="btnhome">Home</string>
+    <string name="btnnext">Next</string>
+    <string name="end">অসমাপ্ত!</string>
+    <string name="copy_right">© Solayman Islam Jahid.</string>
+    <string name="version">version v-1.0</string>
+    <string name="writer">লেখকের সর্ম্পকে -</string>
+
+
+    <string name="lekhoker_Kotha">সময়ের পালাক্রমে হিমু আজ বিবর্তিত!\n
+        তুচ্ছ এক মায়ার বাধঁনে সে আজ মহাজাগতিক শক্তির কাছে পরাজিত।\n
+        \n
+        যদিও নিজেকে ”শুভ্র” ভাবতে ভালো লাগে,
+        নিজেকে শুভ্র ভাবলেও দিন শেষে হিমুতে হারিয়ে যাই।\n
+        সত্যিকার অর্থে,\n
+        হিমুরা স্বপ্ন দেখতে জানে নাহ !\n
+        সুতরাং হিমু হওয়ার ক্ষমতা আমার নেই।\n
+        \n
+        তবে,\n
+        একটা ইচ্ছে আছে,\n
+        কোন এক পূর্নিমায়,\n
+        হলুদ পান্জাবি আর কালো শাড়িতে আমরা সারা রাত জোৎসনায় ভিজবো।\n
+        \"হলুদ হিমু কালো রূপা!\"\n
+        \n
+        লেখাটিতে আমার ব্যাক্তিগত চিন্তাভাবনার অবাধ প্রকাশ,
+        হিমুর জগতে যখন ঘন অন্ধকার,
+        সেই অন্ধকারচ্ছন্ন এক প্রভাতে পুরো বইটা লিখা !\n
+        সুতরাং সকল প্রকার ভুল ক্রটি ক্ষমার দৃষ্টিতে দেখার অনুরোধ রইল।\n
+        \n
+        এটা আমার ডেভলপ করা দ্বিতীয় অ্যাপলিকেশন এবং আমার লেখা প্রথম বই।
+        আমার জন্য দোয়া করবেন,\n
+        আমি যেন, আমার লক্ষে পেীছাতে পারি।\n
+        ধন্যবাদ।\n
+    </string>
+
+
+    <string name="utsorgo">
+        \"যদিও সে হিমুর রূপার থেকে সম্পূর্ণ ভিন্ন,\n
+        কিন্তু, আমার কাছে মনে হয়,\n
+        সে অসাধারন!\"
+    </string>
+
+
+    <string name="update_and_info">
+        For new update and more info…
+    </string>
+    <string name="about_me">
+
+
+        “প্রথমত আমি কোন লেখক নাহ,\n
+        একটা ছোট ইচ্ছা পূরনের জন্যই পুরো লেখাটি লিখা।”\n
+        সত্যিকার অর্থে,\n
+        “ আমি একজন ভবিষ্যৎ সফটওয়্যার সৈনিক!” \n
+        \n
+        আমি সোলায়মান ইসলাম জাহিদ।\n
+        ডিপ্লোমা ইন কম্পিউটার ইন্জিনিয়ারিং-এর ৬ষ্ঠ পর্বে অধ্যায়নরত আছি।\n
+        এছাড়াও পড়াশোনার পাশা-পাশি উইন কম্পিউটার লিঃ –এ কম্পিউটার ট্রেইনর হিসেবে কর্মরত আছি।\n
+        \n
+        কিন্তু, আমি আমার ভবিষ্যৎপরিচয়টা একটু অন্য ভাবে দিকে পছন্দ করি,\n
+        \n
+        “I’m a senior Java Developer, \n
+        I also good at Android development and full stack web development.”\n\n
+        At last,\n
+        I believe that ,\n
+        I can do it !(inshAllah).\n\n
+
+
+
+    </string>
+
+
+</resources>

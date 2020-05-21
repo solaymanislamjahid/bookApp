@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="#ffffff"
+android:weightSum="3"
+android:gravity="bottom"
+android:layout_gravity="bottom"
+    android:visibility="gone"
+    android:id="@+id/layout6"
+>
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_marginTop="70dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="horizontal"
+    android:paddingVertical="10dp"
+    android:background="@drawable/broder_button"
+    >
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/cover_photo"
+        android:scaleX="1.30"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bookName"
+        android:textSize="18sp"
+        android:layout_gravity="center_vertical"
+        />
+</LinearLayout>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/writer"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginBottom="10dp"
+    android:textSize="30sp"
+    />
+
+
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="0dp"
+    android:layout_weight="3"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/mee"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="40dp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about_me"
+            android:layout_marginBottom="30dp"
+            android:textSize="15sp"
+            android:layout_marginStart="110dp"
+            android:layout_marginEnd="15dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/update_and_info"
+            android:background="@drawable/broder_button"
+            android:textColor="#052AFA"
+            android:padding="5dp"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="center"
+
+            />
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/followme"
+            android:id="@+id/fme_fb"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/likefb"
+            android:id="@+id/lme_fb"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            />
+
+        <ImageView
+            android:id="@+id/make_app"
+            android:layout_width="wrap_content"
+            android:layout_height="265dp"
+            android:src="@drawable/ad"
+            android:layout_gravity="bottom"
+            />
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+
+<pl.droidsonroids.gif.GifImageView
+    android:id="@+id/back_home"
+    android:layout_width="wrap_content"
+    android:layout_height="80dp"
+    android:layout_gravity="bottom"
+    android:src="@drawable/menu" />
+
+
+</LinearLayout>

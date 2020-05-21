@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:gravity="bottom"
+android:background="#ffffff"
+    android:visibility="gone"
+    android:id="@+id/layout5"
+>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_marginTop="50dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="horizontal"
+    android:paddingVertical="10dp"
+    android:background="@drawable/broder_button"
+    >
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/cover_photo"
+        android:scaleX="1.30"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bookName"
+        android:textSize="18sp"
+        android:layout_gravity="center_vertical"
+        />
+</LinearLayout>
+
+<ImageView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:src="@drawable/end"
+    />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/end"
+    android:textSize="40sp"
+    android:layout_marginBottom="60dp"
+    android:layout_gravity="center"
+    />
+
+
+<LinearLayout
+    android:id="@+id/last_next"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_marginBottom="40dp"
+    android:paddingLeft="40dp"
+    android:background="@drawable/line"
+    >
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_gravity="center"
+        android:gravity="right"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawableStart="@drawable/ic_right_arrow" />
+
+</LinearLayout>
+
+</LinearLayout>
